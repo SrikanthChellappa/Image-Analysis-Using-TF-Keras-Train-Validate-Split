@@ -1,6 +1,6 @@
 # ML-Models
 
-We are going to use medicinal leaf image dataset (https://www.kaggle.com/datasets/bijlyborkatullah/medicinal-plant-bijly-withbg/data) from Kaggle to illustrate the data processing and model implementation here using TF/Keras.
+We are going to use medicinal leaf image dataset (https://www.kaggle.com/datasets/bijlyborkatullah/medicinal-plant-bijly-withbg/data) from Kaggle to illustrate the image analysis and identification using TF/Keras here.
 
 We are going to develop two(2) different kind of models using tensorflow and keras for the medicinal leaf recognition. These models commonly use keras image pre-processing utility for image dataset reshaping and pre-processing.
 
