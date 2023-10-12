@@ -10,4 +10,4 @@ The second(2nd) model is based on Transfer Learning where we are going to use In
 
 Both of these models can be downloaded and optimized further with additional data (or) you can try using it with a new image dataset from a different use case as well.
 
-Pls enjoy learning experience with TF/Keras to train a machine.
+Pls continue to enjoy your learning experience with TF/Keras to train a machine.
